@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @GlitchGui
-- 👀 I’m interested in AI and the possible connection between the brain and technology.
-- 🌱 I’m currently learning HTML and CSS.
-- 💞️ I’m looking to collaborate on a new script id like to design in the far future; Chino/CHNO script; once I am certified and can put more into it other then just names and cool graphic and functional ideas. 
-- 📫 How to reach me @natesmith165 on Instagram or on linkedIn as Nathan Smith
+- 👀 I’m interested in Quantum Physics!
+- 🌱 I’m currently learning about LLMs and Gen AI.
+- 💞️ I’m looking to collaborate on many projects I have started and will begin to upload over time. 
+- 📫 How to reach me on social media: IG: @SiCkDragonOS
 
 <!---
 GlitchGui/GlitchGui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
